@@ -1,0 +1,16 @@
+Buck encountered an internal error
+com.facebook.buck.command.Build$BuildExecutionException: com.facebook.buck.core.exceptions.BuckUncheckedExecutionException: When final
+izing rule.: java.lang.IllegalStateException: Could not find input source (android\cxx\Hello.cpp) in dep file prereqs ([android\cxx\He
+llo.cpp, D:\AndroidNDK\android-ndk-r21b\sysroot\usr\include\jni.h, D:\AndroidNDK\android-ndk-r21b\toolchains\llvm\prebuilt\windows-x86
+_64\lib64\clang\9.0.8\include\stdarg.h, D:\AndroidNDK\android-ndk-r21b\sources\cxx-stl\llvm-libc++\include\stdint.h, D:\AndroidNDK\and
+roid-ndk-r21b\sources\cxx-stl\llvm-libc++\include\__config, D:\AndroidNDK\android-ndk-r21b\sysroot\usr\include\features.h, D:\AndroidN
+DK\android-ndk-r21b\sysroot\usr\include\sys\cdefs.h, D:\AndroidNDK\android-ndk-r21b\sysroot\usr\include\android\versioning.h, D:\Andro
+idNDK\android-ndk-r21b\sysroot\usr\include\android\api-level.h, D:\AndroidNDK\android-ndk-r21b\sysroot\usr\include\android\ndk-version
+.h, D:\AndroidNDK\android-ndk-r21b\sysroot\usr\include\pthread.h, D:\AndroidNDK\android-ndk-r21b\toolchains\llvm\prebuilt\windows-x86_
+64\lib64\clang\9.0.8\include\stdint.h, D:\AndroidNDK\android-ndk-r21b\sysroot\usr\include\stdint.h, D:\AndroidNDK\android-ndk-r21b\sys
+root\usr\include\bits\wchar_limits.h, D:\AndroidNDK\android-ndk-r21b\sources\cxx-stl\llvm-libc++\include\stddef.h, D:\AndroidNDK\andro
+id-ndk-r21b\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\9.0.8\include\stddef.h, D:\AndroidNDK\android-ndk-r21b\toolchains\llvm
+\prebuilt\windows-x86_64\lib64\clang\9.0.8\include\__stddef_max_align_t.h, D:\AndroidNDK\android-ndk-r21b\sources\cxx-stl\llvm-libc++\
+include\__nullptr, D:\AndroidNDK\android-ndk-r21b\sources\cxx-stl\llvm-libc++\include\type_traits, D:\AndroidNDK\android-ndk-r21b\sour
+ces\cxx-stl\llvm-libc++\include\cstddef, D:\AndroidNDK\android-ndk-r21b\sources\cxx-stl\llvm-libc++\include\version, buck-out\gen\comm
+on\hello#header-mode-symlink-tree-with-header-map,headers\common\hello.h])
